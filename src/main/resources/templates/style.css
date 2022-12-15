@@ -1,0 +1,23 @@
+.headig-text {
+    display: flex;
+    text-align: center;
+    color: tomato;
+    margin: auto;
+    justify-content: center;
+    
+}
+.joke-text { 
+    font-family: monospace;
+    font-size: 22px;
+    font-weight: 900;
+    background-color: rgb(43, 37, 37);
+    color: white;
+    padding: 2rem;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right bottom,  black, rgb(201, 23, 23));
+    max-width: 700px;
+}
