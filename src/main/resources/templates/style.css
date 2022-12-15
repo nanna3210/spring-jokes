@@ -1,12 +1,17 @@
-.headig-text {
+.heading-text {
     display: flex;
     text-align: center;
     color: tomato;
     margin: auto;
+    background-image: linear-gradient(to right bottom, rgb(233, 216, 216), rgb(19, 17, 17));
     justify-content: center;
-    
+    padding: 4rem;
+    width: 70rem;
+
+
 }
-.joke-text { 
+
+.joke-text {
     font-family: monospace;
     font-size: 22px;
     font-weight: 900;
@@ -16,8 +21,10 @@
     border-radius: 7px;
     display: flex;
     justify-content: center;
+    margin: auto;
+    margin-top: 4rem;
     text-align: center;
     letter-spacing: 2px;
-    background-image: linear-gradient(to right bottom,  black, rgb(201, 23, 23));
+    background-image: linear-gradient(to right bottom, black, rgb(201, 23, 23));
     max-width: 700px;
 }
